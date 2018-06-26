@@ -1,0 +1,6 @@
+nose
+django
+requests
+beautifulsoup4
+python-dateutil
+selenium==2.52.0

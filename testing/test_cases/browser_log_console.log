@@ -1,0 +1,7 @@
+
+Driver Log : ---
+{'timestamp': 1529999840715, 'message': '[fxdriver.wdSession] Lost DOM in window undefined', 'type': '', 'level': 'SEVERE'}
+Driver Log : ---
+{'timestamp': 1529999859611, 'message': '[fxdriver.wdSession] Lost DOM in window undefined', 'type': '', 'level': 'SEVERE'}
+Driver Log : ---
+{'timestamp': 1529999866338, 'message': '[fxdriver.wdSession] Lost DOM in window undefined', 'type': '', 'level': 'SEVERE'}

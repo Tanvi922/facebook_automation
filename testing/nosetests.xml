@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="1" errors="1" failures="0" skip="0"><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ImportError" message="No module named 'test_homepage_functions'"><![CDATA[Traceback (most recent call last):
+  File "/usr/lib/python3.4/unittest/case.py", line 58, in testPartExecutor
+    yield
+  File "/usr/lib/python3.4/unittest/case.py", line 577, in run
+    testMethod()
+  File "/home/tanvijoshi/Tanvi/aasaanjobs/lib/python3.4/site-packages/nose/failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "/home/tanvijoshi/Tanvi/aasaanjobs/lib/python3.4/site-packages/nose/loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "/home/tanvijoshi/Tanvi/aasaanjobs/lib/python3.4/site-packages/nose/importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "/home/tanvijoshi/Tanvi/aasaanjobs/lib/python3.4/site-packages/nose/importer.py", line 79, in importFromDir
+    fh, filename, desc = find_module(part, path)
+  File "/home/tanvijoshi/Tanvi/aasaanjobs/lib/python3.4/imp.py", line 297, in find_module
+    raise ImportError(_ERR_MSG.format(name), name=name)
+ImportError: No module named 'test_homepage_functions'
+]]></error></testcase></testsuite>
